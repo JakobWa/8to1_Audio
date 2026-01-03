@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TMUX6208PWR")(type "KiCad")(uri "${KIPRJMOD}/clibs/TMUX6208PWR")(options "")(descr ""))
+  (lib (name "ESP32-C6-WROOM-1-N8")(type "KiCad")(uri "${KIPRJMOD}/clibs/ESP32-C6-WROOM-1-N8")(options "")(descr ""))
+  (lib (name "SJ1-3515N")(type "KiCad")(uri "${KIPRJMOD}/clibs/SJ1-3515N")(options "")(descr ""))
+  (lib (name "clibs")(type "KiCad")(uri "${KIPRJMOD}/clibs")(options "")(descr ""))
+  (lib (name "MCP1725-3302E_MC")(type "KiCad")(uri "${KIPRJMOD}/clibs/MCP1725-3302E_MC")(options "")(descr ""))
+  (lib (name "UCQ1E4R7MCL1GB")(type "KiCad")(uri "${KIPRJMOD}/clibs/UCQ1E4R7MCL1GB")(options "")(descr ""))
+  (lib (name "SJ1-3513N")(type "KiCad")(uri "${KIPRJMOD}/clibs/SJ1-3513N")(options "")(descr ""))
+)
